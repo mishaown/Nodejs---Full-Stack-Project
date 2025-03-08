@@ -38,11 +38,14 @@ Directory:
 
 USED PACKAGES:
 
-```"dependencies": {
+```
+"dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "nedb": "^1.8.0"
-}```
+}
+
+```
 
 Skeleton CSS: For providing a lightweight and responsive CSS framework.
 NeDB: For offering a simple and efficient database solution.
